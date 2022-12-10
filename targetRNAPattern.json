@@ -1,0 +1,22 @@
+{
+    "SpCas9": {
+        "Pattern": "NNNNNNNNNNNNNNNNNNNN",
+        "PAM": "NGG",
+        "PAM_loc": 3
+    },
+    "AsCas12f": {
+        "Pattern": "NNNNNNNNNNNNNNNNNNNN",
+        "PAM": "YTTN",
+        "PAM_loc": 5
+    }, 
+    "Un1Cas12f": {
+        "Pattern": "NNNNNNNNNNNNNNNNNNNN",
+        "PAM": "TTTR",
+        "PAM_loc": 5
+    }, 
+    "FnCas12a": {
+        "Pattern": "NNNNNNNNNNNNNNNNNNNN",
+        "PAM": "TTV",
+        "PAM_loc": 5
+    }
+}
