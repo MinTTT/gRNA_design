@@ -6,7 +6,7 @@
     },
     "AsCas12f": {
         "Pattern": "NNNNNNNNNNNNNNNNNNNN",
-        "PAM": "YTTN",
+        "PAM": "TTTR",
         "PAM_loc": 5
     }, 
     "Un1Cas12f": {
